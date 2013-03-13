@@ -1,0 +1,21 @@
+# wget https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD -O crimes.json
+# wget https://data.cityofchicago.org/api/views/7nii-7srd/rows.json?accessType=DOWNLOAD -O buildings.json
+# wget https://data.cityofchicago.org/api/views/uxic-zsuj/rows.json?accessType=DOWNLOAD -O trees.json
+# wget https://data.cityofchicago.org/api/views/hec5-y4x5/rows.json?accessType=DOWNLOAD -O graffiti.json
+# wget https://data.cityofchicago.org/api/views/9ksk-na4q/rows.json?accessType=DOWNLOAD -O garbage.json
+# wget https://data.cityofchicago.org/api/views/z8bn-74gv/rows.json?accessType=DOWNLOAD -O police.json
+# wget https://data.cityofchicago.org/api/views/28km-gtjn/rows.json?accessType=DOWNLOAD -O fireStations.json
+# wget https://data.cityofchicago.org/api/views/jp7n-tgmf/rows.json?accessType=DOWNLOAD -O sbifGrants.json
+# wget https://data.cityofchicago.org/api/views/ydr8-5enu/rows.json?accessType=DOWNLOAD -O permits.json
+# wget https://data.cityofchicago.org/api/views/4ijn-s7e5/rows.json?accessType=DOWNLOAD -O food.json
+
+wget https://data.cityofchicago.org/api/views/7nii-7srd/rows.csv?accessType=DOWNLOAD -O buildings.csv
+wget https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.csv?accessType=DOWNLOAD -O crimes.csv
+wget https://data.cityofchicago.org/api/views/uxic-zsuj/rows.csv?accessType=DOWNLOAD -O trees.csv
+wget https://data.cityofchicago.org/api/views/hec5-y4x5/rows.csv?accessType=DOWNLOAD -O graffiti.csv
+wget https://data.cityofchicago.org/api/views/9ksk-na4q/rows.csv?accessType=DOWNLOAD -O garbage.csv
+wget https://data.cityofchicago.org/api/views/z8bn-74gv/rows.csv?accessType=DOWNLOAD -O police.csv
+wget https://data.cityofchicago.org/api/views/28km-gtjn/rows.csv?accessType=DOWNLOAD -O fireStations.csv
+wget https://data.cityofchicago.org/api/views/jp7n-tgmf/rows.csv?accessType=DOWNLOAD -O sbifGrants.csv
+wget https://data.cityofchicago.org/api/views/ydr8-5enu/rows.csv?accessType=DOWNLOAD -O permits.csv
+wget https://data.cityofchicago.org/api/views/4ijn-s7e5/rows.csv?accessType=DOWNLOAD -O food.csv
